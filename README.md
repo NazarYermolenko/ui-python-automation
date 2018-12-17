@@ -1,4 +1,5 @@
 <body>
+<!-- -->
 
 <h2>Simple Python + Pytest + Selenium + Allure automation test project</h2>
 
